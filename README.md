@@ -1,7 +1,9 @@
 # todolist_flutter
 
 A 2nd Flutter project.
-  error: 1.Search Bar is not working
+
+
+error: 1.Search Bar is not working
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
